@@ -41,7 +41,7 @@ cp .env.example .env
 php artisan key:generate
 ```
 ### 5.-Configuración de base de datos
-Crea una base de datos nueva en tu gestor (por ejemplo desde phpMyAdmin o desde terminal).
+Crea una base de datos nueva en un gestor de base de datos 
 ```
 CREATE DATABASE SPA;
 ```
