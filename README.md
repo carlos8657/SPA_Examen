@@ -63,7 +63,7 @@ php artisan migrate:fresh --seed
 composer run dev
 ```
 ### Usuario para acceder al sistema
-Usuario: Administrador
-Correo: admin@admin.com
-Contraseña: 12345678
+**Usuario: Administrador**
+**Correo: admin@admin.com**
+**Contraseña: 12345678**
 
