@@ -62,6 +62,11 @@ php artisan migrate:fresh --seed
 ```
 composer run dev
 ```
+### 9.-Abrir en el navegador
+```
+localhost:8000
+```
+
 ### Usuario para acceder al sistema
 **Usuario:** Administrador
 **Correo:** admin@admin.com
